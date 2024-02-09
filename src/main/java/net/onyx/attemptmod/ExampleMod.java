@@ -10,6 +10,7 @@ public class ExampleMod implements ModInitializer {
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
 	@Override
+	//Cool Comment Here
 	public void onInitialize() {
 		System.out.println("Onyx's First Mod loaded");
 	}
