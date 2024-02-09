@@ -12,6 +12,7 @@ public class ExampleMod implements ModInitializer {
 	@Override
 	//Cool Comment Here
 	public void onInitialize() {
+		//special comment here
 		System.out.println("Onyx's First Mod loaded");
 	}
 }
